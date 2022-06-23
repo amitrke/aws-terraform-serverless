@@ -2,6 +2,9 @@
 
 AWS Terraform APIGateway and Lambda example.
 
+Prerequisite
+- Terraform cli https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started
+
 terraform init
 
 terraform apply
